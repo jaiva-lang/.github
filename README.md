@@ -1,3 +1,5 @@
+![hn](./j.png)
+
 # Jaiva!
 
-![hn](./repository-open-graph-template (1).png)
+Da Jaiva Programming Language ecosystem
